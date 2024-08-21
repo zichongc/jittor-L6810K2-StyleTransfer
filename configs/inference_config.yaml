@@ -1,0 +1,14 @@
+seed: 2024
+sample_dir: './data/B'
+output_dir: './result'
+weights_dir: './checkpoints/B'
+pretrained_model_path: 'stabilityai/stable-diffusion-2-1'
+
+
+placeholder_coarse_style: "<C>"
+placeholder_fine_style: "<F>"
+
+num_inference_steps: 30
+guidance_scale: 7.5
+negative_prompt: 'blur'
+resolution: 512

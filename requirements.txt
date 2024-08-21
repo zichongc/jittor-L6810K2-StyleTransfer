@@ -1,0 +1,14 @@
+git+https://github.com/JittorRepos/jittor
+git+https://github.com/JittorRepos/jtorch
+git+https://github.com/JittorRepos/diffusers_jittor
+git+https://github.com/JittorRepos/transformers_jittor
+git+https://github.com/JittorRepos/JDiffusion
+numpy==1.24.4
+omegaconf==2.3.0
+peft==0.10.0
+pillow==10.3.0
+PyYAML==6.0.1
+safetensors==0.4.3
+sentencepiece==0.2.0
+tokenizers==0.13.3
+tqdm==4.66.2
